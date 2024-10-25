@@ -1,0 +1,18 @@
+{
+    "customer": {
+        "phoneNumber": "0552655874",
+        "firstName": "John",
+        "lastName": "Doe",
+        "addressLine1": "Rotshild 15",
+        "addressLine2": "Apartment 42",
+        "city": "Tel-Aviv",
+        "postalCode": "6688118",
+        "country": "Israel"
+    },
+    "card": {
+        "curdNumber": "1",
+        "expirationDate": "12 / 26",
+        "securityCode": "777",
+        "nameOnCard": "Bogus Gateway"
+    }
+}
