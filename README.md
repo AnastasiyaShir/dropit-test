@@ -1,6 +1,3 @@
-Here’s a `README.md` for your Playwright-based project. This file covers installation, setup, environment configuration, and test execution.
-
----
 
 # DROPIT Test Automation Project
 
